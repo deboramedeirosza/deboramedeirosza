@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deboramedeirosza
 - 👀 I’m interested in dev
-- 🌱 I’m currently learning programming logic
+- 🌱 I’m currently learning HTML, CSS & JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
